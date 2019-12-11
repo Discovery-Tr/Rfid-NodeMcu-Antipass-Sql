@@ -1,0 +1,10 @@
+www/ewcfg10.php dosyasýndaki 46-50 satýrlarý arasýndaki db ayarlarý yapýlmalýdýr.
+ayrýca site giriþi için þifre bilgileri 194-195. satýrdaki yerden deðiþtirilebilinir.
+
+Kullanýcý Adý: Admin
+Password: Admin
+
+olarak ayarlanmýþtýr.
+
+ayrýca www/node.php dosyasýnda 8-10 arasýndaki db bilgileri ile
+19. satýrdaki db_user_name düzenlenmelidir.
