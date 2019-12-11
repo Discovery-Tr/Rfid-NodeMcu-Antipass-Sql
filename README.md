@@ -257,7 +257,7 @@ void lcdClearAnaEkran()
 
 #Sql Prosedürü
 
-CREATE DEFINER=`DB_name`@`%` PROCEDURE `CheckCard`(IN `crd` varchar(40),IN `rou` int)
+""CREATE DEFINER=`DB_name`@`%` PROCEDURE `CheckCard`(IN `crd` varchar(40),IN `rou` int)
 BEGIN
 	DECLARE rtr INTEGER;
 	DECLARE antiPass VARCHAR(50);
@@ -292,4 +292,4 @@ BEGIN
 		INSERT INTO Logs (`Name`, CardId, Date, Route, `Status`) VALUES ('Tanımsız Kart', crd, NOW(), rou, rtr);
 		SELECT '0' AS `Name`;
 	END IF;
-END
+END"""
