@@ -22,7 +22,7 @@ Ayrıca Programdaki 26-27. satırlarda SSID ve şifre bilgileri düzenlenmeli ay
 Son önemli not: 29. ve 30. satırdaki kodlar dan biri giriş kartı için diğeri de çıkış kartı için kullanılmaktadır. Programları yüklerken bunu unutmayınız.
 
 # Node MCU Programı
-
+```
 /*
 Name:    RFID.ino
 Created: 11/18/2018 10:51:11 PM
@@ -253,10 +253,10 @@ void lcdClearAnaEkran()
 	lcd.setCursor(0, 1); // LCD alt satıra geçiliyor
 	lcd.print("   Sistemleri"); // LCD ye yazılıyor.
 }
- 
+``` 
 
 #Sql Prosedürü
-
+```
 CREATE DEFINER=`DB_name`@`%` PROCEDURE `CheckCard`(IN `crd` varchar(40),IN `rou` int)
 BEGIN
 	DECLARE rtr INTEGER;
@@ -292,3 +292,4 @@ BEGIN
 		SELECT '0' AS `Name`;
 	END IF;
 END
+```
