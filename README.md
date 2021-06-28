@@ -29,6 +29,12 @@ Ayrıca Programdaki 26-27. satırlarda SSID ve şifre bilgileri düzenlenmeli ay
 
 Son önemli not: 29. ve 30. satırdaki kodlar dan biri giriş kartı için diğeri de çıkış kartı için kullanılmaktadır. Programları yüklerken bunu unutmayınız.
 
+#Web Sitesi Öngörünümleri
+![image alt text](https://kirmiziyuz.com/wp-content/uploads/2018/12/1-e1543776088332.png)
+![image alt text](https://www.kirmiziyuz.com/wp-content/uploads/2018/12/2.png)
+![image alt text](https://www.kirmiziyuz.com/wp-content/uploads/2018/12/3-1.png)
+
+
 # NodeMCU (Micro Controller) Programı
 ```
 /*
