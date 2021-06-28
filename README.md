@@ -1,7 +1,9 @@
 # WEB KONTROLLÜ ARDUİNO ( NODEMCU ) KARTLI GEÇİŞ SİSTEMİ RFİD + MYSQL + WEBSİTESİ + ANTİPASS
+![image alt text](https://kirmiziyuz.com/wp-content/uploads/2018/12/Rfid.png)
 
-[Youtube Video](https://www.youtube.com/watch?v=qPL8i-ZN_eo "WEB KONTROLLÜ ARDUİNO ( NODEMCU ) KARTLI GEÇİŞ SİSTEMİ RFİD + MYSQL + WEBSİTESİ + ANTİPASS")
 
+
+                                                [![Everything Is AWESOME](https://kirmiziyuz.com/wp-content/uploads/2021/06/youtube.jpg)](https://www.youtube.com/watch?v=qPL8i-ZN_eo "Rfid-NodeMcu-Antipass-Sql")
 
 Node MCU ile yapmış olduğum RFid projemi sizler ile paylaşıyorum. Projede 2 Kart okutma ünitesi mevcuttur. Bunlardan biri giriş ve biri de çıkış için kullanılıyor. 
 
