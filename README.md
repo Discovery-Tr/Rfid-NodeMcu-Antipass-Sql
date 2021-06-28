@@ -1,5 +1,7 @@
 # WEB KONTROLLÜ ARDUİNO ( NODE MCU ) KARTLI GEÇİŞ SİSTEMİ RFİD + MYSQL + WEBSİTESİ + ANTİPASS
 
+https://www.youtube.com/watch?v=qPL8i-ZN_eo
+
 Node MCU ile yapmış olduğum RFid projemi sizler ile paylaşıyorum. Projede 2 Kart okutma ünitesi mevcuttur. Bunlardan biri giriş ve biri de çıkış için kullanılıyor. 
 
 internet sitesi ve sql ayarları için :
@@ -21,7 +23,7 @@ Ayrıca Programdaki 26-27. satırlarda SSID ve şifre bilgileri düzenlenmeli ay
 
 Son önemli not: 29. ve 30. satırdaki kodlar dan biri giriş kartı için diğeri de çıkış kartı için kullanılmaktadır. Programları yüklerken bunu unutmayınız.
 
-# Node MCU Programı
+# NodeMCU (Micro Controller) Programı
 ```
 /*
 Name:    RFID.ino
