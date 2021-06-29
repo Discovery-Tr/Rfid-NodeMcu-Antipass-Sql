@@ -2,11 +2,15 @@
 
 https://kirmiziyuz.com/arduino/web-kontrollu-arduino-node-mcu-kartli-gecis-sistemi-rfid-mysql-websitesi-antipass.html
 
-![image alt text](https://kirmiziyuz.com/wp-content/uploads/2018/12/Rfid.png)
+<p align="center">
+  <img src="https://kirmiziyuz.com/wp-content/uploads/2018/12/Rfid.png"/>
+</p>
 
-
-
-                                                [![Everything Is AWESOME](https://kirmiziyuz.com/wp-content/uploads/2021/06/youtube.jpg)](https://www.youtube.com/watch?v=qPL8i-ZN_eo "Rfid-NodeMcu-Antipass-Sql")
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=qPL8i-ZN_eo "Rfid-NodeMcu-Antipass-Sql" target="_blank">
+  <img src="https://kirmiziyuz.com/wp-content/uploads/2021/06/youtube.jpg"/>
+ </a>
+</p>
 
 Node MCU ile yapmış olduğum RFid projemi sizler ile paylaşıyorum. Projede 2 Kart okutma ünitesi mevcuttur. Bunlardan biri giriş ve biri de çıkış için kullanılıyor. 
 
@@ -29,10 +33,12 @@ Ayrıca Programdaki 26-27. satırlarda SSID ve şifre bilgileri düzenlenmeli ay
 
 Son önemli not: 29. ve 30. satırdaki kodlar dan biri giriş kartı için diğeri de çıkış kartı için kullanılmaktadır. Programları yüklerken bunu unutmayınız.
 
-#Web Sitesi Öngörünümleri
-![image alt text](https://kirmiziyuz.com/wp-content/uploads/2018/12/1-e1543776088332.png)
-![image alt text](https://www.kirmiziyuz.com/wp-content/uploads/2018/12/2.png)
-![image alt text](https://www.kirmiziyuz.com/wp-content/uploads/2018/12/3-1.png)
+# Web site görüntüleri
+<p align="center">
+  <img src="https://kirmiziyuz.com/wp-content/uploads/2018/12/1-e1543776088332.png"/>
+  <img src="https://www.kirmiziyuz.com/wp-content/uploads/2018/12/2.png"/>
+  <img src="https://www.kirmiziyuz.com/wp-content/uploads/2018/12/3-1.png"/>
+</p>
 
 
 # NodeMCU (Micro Controller) Programı
